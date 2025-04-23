@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="README" id="CC8A7F35-A1A9-4CE3-BF8D-4E14CE19A128" version="3.5">
+<createdBy>kenji</createdBy>
+<createdTime>2025-04-21 15:04:58 UTC</createdTime>
+<ownerDesignName>README</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>CC8A7F35-A1A9-4CE3-BF8D-4E14CE19A128</designId>
+</OSDM_Design>
