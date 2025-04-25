@@ -14,8 +14,7 @@ Vide tutoriais do PI.
 
 ## Nome do Grupo: Minus1
 
-## Integrantes: <a href="https://www.linkedin.com/in/jo%C3%A3o-flavio-do-rio-tozzi-a46594362/">João Flavio do Rio Tozzi</a>, <a href="https://www.linkedin.com/in jo%C3%A3o-guilherme-gumiero-de-micheli-162873300/">João Guilherme Gumiero de Micheli
-</a>, <a href="https://www.linkedin.com/in/kenji-fernandes-wakabayashi/">Kenji Fernandes Wakabayashi</a>
+## Integrantes: <a href="https://www.linkedin.com/in/jo%C3%A3o-flavio-do-rio-tozzi-a46594362/">João Flavio do Rio Tozzi</a>, <a href="https://www.linkedin.com/in jo%C3%A3o-guilherme-gumiero-de-micheli-162873300/">João Guilherme Gumiero de Micheli</a>, <a href="https://www.linkedin.com/in/kenji-fernandes-wakabayashi/">Kenji Fernandes Wakabayashi</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/lucymari/">Lucy Mari Tabuti
 </a>
