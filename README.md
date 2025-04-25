@@ -10,12 +10,11 @@ Vide tutoriais do PI.
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Nome do Projeto
+# Nome do Projeto: DashHome
 
-## Nome do Grupo
+## Nome do Grupo: Minus1
 
-## Integrantes: <a href="https://www.linkedin.com/in/jo%C3%A3o-flavio-do-rio-tozzi-a46594362/">João Flavio do Rio Tozzi</a>, <a href="https://www.linkedin.com/in jo%C3%A3o-guilherme-gumiero-de-micheli-162873300/">João Guilherme Gumiero de Micheli
-</a>, <a href="https://www.linkedin.com/in/kenji-fernandes-wakabayashi/">Kenji Fernandes Wakabayashi</a>
+## Integrantes: <a href="https://www.linkedin.com/in/jo%C3%A3o-flavio-do-rio-tozzi-a46594362/">João Flavio do Rio Tozzi</a>, <a href="https://www.linkedin.com/in jo%C3%A3o-guilherme-gumiero-de-micheli-162873300/">João Guilherme Gumiero de Micheli</a>, <a href="https://www.linkedin.com/in/kenji-fernandes-wakabayashi/">Kenji Fernandes Wakabayashi</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/lucymari/">Lucy Mari Tabuti
 </a>
