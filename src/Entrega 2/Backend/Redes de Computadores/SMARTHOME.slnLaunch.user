@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Novo Perfil",
+    "Projects": [
+      {
+        "Path": "Servidor\\Servidor.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Sensores\\Sensores.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

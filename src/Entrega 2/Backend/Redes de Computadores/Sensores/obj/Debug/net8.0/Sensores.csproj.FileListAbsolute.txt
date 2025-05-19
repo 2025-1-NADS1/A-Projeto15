@@ -1,0 +1,34 @@
+C:\Users\joozi\OneDrive\Desktop\REDES PROJETO\SMARTHOME\Sensores\bin\Debug\net8.0\Sensores.exe
+C:\Users\joozi\OneDrive\Desktop\REDES PROJETO\SMARTHOME\Sensores\bin\Debug\net8.0\Sensores.deps.json
+C:\Users\joozi\OneDrive\Desktop\REDES PROJETO\SMARTHOME\Sensores\bin\Debug\net8.0\Sensores.runtimeconfig.json
+C:\Users\joozi\OneDrive\Desktop\REDES PROJETO\SMARTHOME\Sensores\bin\Debug\net8.0\Sensores.dll
+C:\Users\joozi\OneDrive\Desktop\REDES PROJETO\SMARTHOME\Sensores\bin\Debug\net8.0\Sensores.pdb
+C:\Users\joozi\OneDrive\Desktop\REDES PROJETO\SMARTHOME\Sensores\obj\Debug\net8.0\Sensores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joozi\OneDrive\Desktop\REDES PROJETO\SMARTHOME\Sensores\obj\Debug\net8.0\Sensores.AssemblyInfoInputs.cache
+C:\Users\joozi\OneDrive\Desktop\REDES PROJETO\SMARTHOME\Sensores\obj\Debug\net8.0\Sensores.AssemblyInfo.cs
+C:\Users\joozi\OneDrive\Desktop\REDES PROJETO\SMARTHOME\Sensores\obj\Debug\net8.0\Sensores.csproj.CoreCompileInputs.cache
+C:\Users\joozi\OneDrive\Desktop\REDES PROJETO\SMARTHOME\Sensores\obj\Debug\net8.0\Sensores.dll
+C:\Users\joozi\OneDrive\Desktop\REDES PROJETO\SMARTHOME\Sensores\obj\Debug\net8.0\refint\Sensores.dll
+C:\Users\joozi\OneDrive\Desktop\REDES PROJETO\SMARTHOME\Sensores\obj\Debug\net8.0\Sensores.pdb
+C:\Users\joozi\OneDrive\Desktop\REDES PROJETO\SMARTHOME\Sensores\obj\Debug\net8.0\Sensores.genruntimeconfig.cache
+C:\Users\joozi\OneDrive\Desktop\REDES PROJETO\SMARTHOME\Sensores\obj\Debug\net8.0\ref\Sensores.dll
+C:\Users\joozi\OneDrive\Desktop\REDES PROJETO\SMARTHOME\Sensores\bin\Debug\net8.0\websocket-sharp.dll
+C:\Users\joozi\OneDrive\Desktop\REDES PROJETO\SMARTHOME\Sensores\obj\Debug\net8.0\Sensores.csproj.AssemblyReference.cache
+C:\Users\joozi\OneDrive\Desktop\REDES PROJETO\SMARTHOME\Sensores\obj\Debug\net8.0\Sensores.csproj.Up2Date
+C:\Users\joozi\OneDrive\Desktop\SMARTHOME\Sensores\bin\Debug\net8.0\Sensores.exe
+C:\Users\joozi\OneDrive\Desktop\SMARTHOME\Sensores\bin\Debug\net8.0\Sensores.deps.json
+C:\Users\joozi\OneDrive\Desktop\SMARTHOME\Sensores\bin\Debug\net8.0\Sensores.runtimeconfig.json
+C:\Users\joozi\OneDrive\Desktop\SMARTHOME\Sensores\bin\Debug\net8.0\Sensores.dll
+C:\Users\joozi\OneDrive\Desktop\SMARTHOME\Sensores\bin\Debug\net8.0\Sensores.pdb
+C:\Users\joozi\OneDrive\Desktop\SMARTHOME\Sensores\bin\Debug\net8.0\websocket-sharp.dll
+C:\Users\joozi\OneDrive\Desktop\SMARTHOME\Sensores\obj\Debug\net8.0\Sensores.csproj.AssemblyReference.cache
+C:\Users\joozi\OneDrive\Desktop\SMARTHOME\Sensores\obj\Debug\net8.0\Sensores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joozi\OneDrive\Desktop\SMARTHOME\Sensores\obj\Debug\net8.0\Sensores.AssemblyInfoInputs.cache
+C:\Users\joozi\OneDrive\Desktop\SMARTHOME\Sensores\obj\Debug\net8.0\Sensores.AssemblyInfo.cs
+C:\Users\joozi\OneDrive\Desktop\SMARTHOME\Sensores\obj\Debug\net8.0\Sensores.csproj.CoreCompileInputs.cache
+C:\Users\joozi\OneDrive\Desktop\SMARTHOME\Sensores\obj\Debug\net8.0\Sensores.csproj.Up2Date
+C:\Users\joozi\OneDrive\Desktop\SMARTHOME\Sensores\obj\Debug\net8.0\Sensores.dll
+C:\Users\joozi\OneDrive\Desktop\SMARTHOME\Sensores\obj\Debug\net8.0\refint\Sensores.dll
+C:\Users\joozi\OneDrive\Desktop\SMARTHOME\Sensores\obj\Debug\net8.0\Sensores.pdb
+C:\Users\joozi\OneDrive\Desktop\SMARTHOME\Sensores\obj\Debug\net8.0\Sensores.genruntimeconfig.cache
+C:\Users\joozi\OneDrive\Desktop\SMARTHOME\Sensores\obj\Debug\net8.0\ref\Sensores.dll

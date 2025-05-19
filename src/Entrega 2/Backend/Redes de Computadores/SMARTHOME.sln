@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SERVIDOR", "SERVIDOR", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Servidor", "Servidor\Servidor.csproj", "{E404FD74-0F4A-453B-90FC-2F0BF8B59862}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SENSORES", "SENSORES", "{87817043-B0C2-495B-8DDC-49684895A121}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sensores", "Sensores\Sensores.csproj", "{573C02AC-941B-4C1B-B103-873783F90B6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E404FD74-0F4A-453B-90FC-2F0BF8B59862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E404FD74-0F4A-453B-90FC-2F0BF8B59862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E404FD74-0F4A-453B-90FC-2F0BF8B59862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E404FD74-0F4A-453B-90FC-2F0BF8B59862}.Release|Any CPU.Build.0 = Release|Any CPU
+		{573C02AC-941B-4C1B-B103-873783F90B6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{573C02AC-941B-4C1B-B103-873783F90B6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{573C02AC-941B-4C1B-B103-873783F90B6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{573C02AC-941B-4C1B-B103-873783F90B6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E404FD74-0F4A-453B-90FC-2F0BF8B59862} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{573C02AC-941B-4C1B-B103-873783F90B6B} = {87817043-B0C2-495B-8DDC-49684895A121}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DD3827B-5544-4416-B334-3D1C9E1379E8}
+	EndGlobalSection
+EndGlobal

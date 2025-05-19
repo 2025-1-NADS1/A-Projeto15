@@ -1,0 +1,34 @@
+C:\Users\joozi\OneDrive\Desktop\REDES PROJETO\SMARTHOME\Servidor\bin\Debug\net8.0\Servidor.exe
+C:\Users\joozi\OneDrive\Desktop\REDES PROJETO\SMARTHOME\Servidor\bin\Debug\net8.0\Servidor.deps.json
+C:\Users\joozi\OneDrive\Desktop\REDES PROJETO\SMARTHOME\Servidor\bin\Debug\net8.0\Servidor.runtimeconfig.json
+C:\Users\joozi\OneDrive\Desktop\REDES PROJETO\SMARTHOME\Servidor\bin\Debug\net8.0\Servidor.dll
+C:\Users\joozi\OneDrive\Desktop\REDES PROJETO\SMARTHOME\Servidor\bin\Debug\net8.0\Servidor.pdb
+C:\Users\joozi\OneDrive\Desktop\REDES PROJETO\SMARTHOME\Servidor\obj\Debug\net8.0\Servidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joozi\OneDrive\Desktop\REDES PROJETO\SMARTHOME\Servidor\obj\Debug\net8.0\Servidor.AssemblyInfoInputs.cache
+C:\Users\joozi\OneDrive\Desktop\REDES PROJETO\SMARTHOME\Servidor\obj\Debug\net8.0\Servidor.AssemblyInfo.cs
+C:\Users\joozi\OneDrive\Desktop\REDES PROJETO\SMARTHOME\Servidor\obj\Debug\net8.0\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\joozi\OneDrive\Desktop\REDES PROJETO\SMARTHOME\Servidor\obj\Debug\net8.0\Servidor.dll
+C:\Users\joozi\OneDrive\Desktop\REDES PROJETO\SMARTHOME\Servidor\obj\Debug\net8.0\refint\Servidor.dll
+C:\Users\joozi\OneDrive\Desktop\REDES PROJETO\SMARTHOME\Servidor\obj\Debug\net8.0\Servidor.pdb
+C:\Users\joozi\OneDrive\Desktop\REDES PROJETO\SMARTHOME\Servidor\obj\Debug\net8.0\Servidor.genruntimeconfig.cache
+C:\Users\joozi\OneDrive\Desktop\REDES PROJETO\SMARTHOME\Servidor\obj\Debug\net8.0\ref\Servidor.dll
+C:\Users\joozi\OneDrive\Desktop\REDES PROJETO\SMARTHOME\Servidor\obj\Debug\net8.0\Servidor.csproj.AssemblyReference.cache
+C:\Users\joozi\OneDrive\Desktop\REDES PROJETO\SMARTHOME\Servidor\bin\Debug\net8.0\websocket-sharp.dll
+C:\Users\joozi\OneDrive\Desktop\REDES PROJETO\SMARTHOME\Servidor\obj\Debug\net8.0\Servidor.csproj.Up2Date
+C:\Users\joozi\OneDrive\Desktop\SMARTHOME\Servidor\bin\Debug\net8.0\Servidor.exe
+C:\Users\joozi\OneDrive\Desktop\SMARTHOME\Servidor\bin\Debug\net8.0\Servidor.deps.json
+C:\Users\joozi\OneDrive\Desktop\SMARTHOME\Servidor\bin\Debug\net8.0\Servidor.runtimeconfig.json
+C:\Users\joozi\OneDrive\Desktop\SMARTHOME\Servidor\bin\Debug\net8.0\Servidor.dll
+C:\Users\joozi\OneDrive\Desktop\SMARTHOME\Servidor\bin\Debug\net8.0\Servidor.pdb
+C:\Users\joozi\OneDrive\Desktop\SMARTHOME\Servidor\bin\Debug\net8.0\websocket-sharp.dll
+C:\Users\joozi\OneDrive\Desktop\SMARTHOME\Servidor\obj\Debug\net8.0\Servidor.csproj.AssemblyReference.cache
+C:\Users\joozi\OneDrive\Desktop\SMARTHOME\Servidor\obj\Debug\net8.0\Servidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joozi\OneDrive\Desktop\SMARTHOME\Servidor\obj\Debug\net8.0\Servidor.AssemblyInfoInputs.cache
+C:\Users\joozi\OneDrive\Desktop\SMARTHOME\Servidor\obj\Debug\net8.0\Servidor.AssemblyInfo.cs
+C:\Users\joozi\OneDrive\Desktop\SMARTHOME\Servidor\obj\Debug\net8.0\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\joozi\OneDrive\Desktop\SMARTHOME\Servidor\obj\Debug\net8.0\Servidor.csproj.Up2Date
+C:\Users\joozi\OneDrive\Desktop\SMARTHOME\Servidor\obj\Debug\net8.0\Servidor.dll
+C:\Users\joozi\OneDrive\Desktop\SMARTHOME\Servidor\obj\Debug\net8.0\refint\Servidor.dll
+C:\Users\joozi\OneDrive\Desktop\SMARTHOME\Servidor\obj\Debug\net8.0\Servidor.pdb
+C:\Users\joozi\OneDrive\Desktop\SMARTHOME\Servidor\obj\Debug\net8.0\Servidor.genruntimeconfig.cache
+C:\Users\joozi\OneDrive\Desktop\SMARTHOME\Servidor\obj\Debug\net8.0\ref\Servidor.dll
